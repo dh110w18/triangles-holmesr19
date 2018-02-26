@@ -1,0 +1,26 @@
+/*make these colors less annoying before submission*/
+
+
+.block{
+    padding: 10px;
+    margin: 10px;
+    border: inset gray 2px;
+    height: 100px;
+    font-size: 150%;
+    font-family: monospace, serif, georgia;
+}
+
+#first{
+    color: #2A0A12;
+    background-color: #07E1E5;
+}
+
+#second{
+    color: #F7F8E0;
+    background-color: #F92CE3;
+}
+
+#third{
+    color: #0A2A0A;
+    background-color: #FBFF00;
+}
