@@ -65,7 +65,6 @@ assignUserbase();
 //alerts not working, how to loop until both are satisfactory
 if (userbase < 10){
   alert(userbase + "< 10!!")
-  assignUserbase();
 } else if (userbase >= 10){
   assignUserheight();
   if (userheight < 0){
